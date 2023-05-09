@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_", "1_\1_.csproj", "{1DDA387A-DCF1-4D0A-BBF2-1D8331444226}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_Menu", "1. Меню (MenuStrip)\WindowsFormsApplication1\1_Menu.csproj", "{590A2372-33F1-4FFE-99AA-026831FB872F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_Program_Menu_Creation", "2. Программное создание меню\WindowsApplication1\2_Program_Menu_Creation.csproj", "{010E72D2-69B1-4E9B-9121-3F3228EC45E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_ContextMenu", "3. Контекстное меню\ContextMenu\3_ContextMenu.csproj", "{1F3EBCE5-1525-4EDC-8461-6EE661DD1C4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_CreateToolBar", "4. Панель инструментов\CreateToolBar\4_CreateToolBar.csproj", "{EE253C0B-26A2-47D8-B3A7-E4E595170DBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DDA387A-DCF1-4D0A-BBF2-1D8331444226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DDA387A-DCF1-4D0A-BBF2-1D8331444226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DDA387A-DCF1-4D0A-BBF2-1D8331444226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DDA387A-DCF1-4D0A-BBF2-1D8331444226}.Release|Any CPU.Build.0 = Release|Any CPU
+		{590A2372-33F1-4FFE-99AA-026831FB872F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{590A2372-33F1-4FFE-99AA-026831FB872F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{590A2372-33F1-4FFE-99AA-026831FB872F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{590A2372-33F1-4FFE-99AA-026831FB872F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{010E72D2-69B1-4E9B-9121-3F3228EC45E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{010E72D2-69B1-4E9B-9121-3F3228EC45E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{010E72D2-69B1-4E9B-9121-3F3228EC45E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{010E72D2-69B1-4E9B-9121-3F3228EC45E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F3EBCE5-1525-4EDC-8461-6EE661DD1C4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F3EBCE5-1525-4EDC-8461-6EE661DD1C4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F3EBCE5-1525-4EDC-8461-6EE661DD1C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F3EBCE5-1525-4EDC-8461-6EE661DD1C4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE253C0B-26A2-47D8-B3A7-E4E595170DBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE253C0B-26A2-47D8-B3A7-E4E595170DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE253C0B-26A2-47D8-B3A7-E4E595170DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE253C0B-26A2-47D8-B3A7-E4E595170DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13429E5D-FA35-40C4-97A9-DB1027C56616}
+	EndGlobalSection
+EndGlobal
